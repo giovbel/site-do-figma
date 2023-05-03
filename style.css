@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+ul, ol, li{
+    list-style: none;
+}
+body{
+    background-color: #FEB4B3;
+}
+header{
+    padding-left: 130px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    height: 10vh;
+    background-color: #720D14;
+}
+img{
+    gap: 10px;
+    display: flex;
+    height: 40px;
+}
+.marca p{
+    font-size: 14px;
+    font-family: 'Changa One', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Varela Round', sans-serif;
+    color: white;
+}
+.items{
+    font-size: 14px;
+    font-family: 'Changa One', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Varela Round', sans-serif;
+    color: ivory;
+    display: flex;
+    margin-left: 300px;
+    gap: 60px;
+}
+.button{
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 70px;
+    font-family: 'DM Sans', sans-serif;
+    display: flex;
+    font-size: 1vw;
+    color: #720D14;
+    background-color: white;
+    padding: 1vw;
+    width: 8vw;
+    height: 2.5vw;
+    }
+.imagens{
+    position: absolute;
+    z-index: -1;
+    display: flex;
+}
+.morangos img{
+    height: 250px;
+}
+.potinho img{
+    margin-left: -70px;
+    height: 130px;
+}
+.casquinha img{
+    margin-left: 330px;
+    height: 180px;
+}
+.info{
+    width: 400px;
+    font-size: 50px;
+    font-family: 'Changa One', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Varela Round', sans-serif;
+  }
