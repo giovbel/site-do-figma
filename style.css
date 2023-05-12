@@ -10,6 +10,9 @@ ul, ol, li{
     list-style: none;
 }
 body{
+    overflow: hidden;
+    max-width: 100vw;
+    overflow-x: hidden;
     background-color: #FEB4B3;
 }
 header{
@@ -57,25 +60,117 @@ img{
     height: 2.5vw;
     }
 .imagens{
-    position: absolute;
+    position: relative;
+    display: inline-block;
     z-index: -1;
     display: flex;
 }
 .morangos img{
-    height: 250px;
+    height: 230px;
 }
 .potinho img{
     margin-left: -70px;
-    height: 130px;
+    height: 120px;
 }
 .casquinha img{
-    margin-left: 330px;
+    position: relative;
+    top: 35%;
+    left: 160%;
+    transform: translate(-50%, -50%);
     height: 180px;
 }
+.sorvetegrande img{
+    top: 54%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    height: 520px;
+}
 .info{
-    width: 400px;
+    color: white;
+    position: absolute;
+    top: 37%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    width: 500px;
     font-size: 50px;
     font-family: 'Changa One', cursive;
     font-family: 'Dancing Script', cursive;
     font-family: 'Varela Round', sans-serif;
   }
+.info2{
+    font-weight: 500;
+    color: #720D14;
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    font-size: 50px;
+    font-family: 'Changa One', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Varela Round', sans-serif;
+}
+.texto{
+    position: absolute;
+    color: #A5696D;
+    top: 62%;
+    left: 22%;
+    transform: translate(-50%, -50%);
+    width: 420px;
+    font-size: 19px;
+    font-family: 'Changa One', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.button2{
+    font-weight: bold;
+    position: absolute;
+    top: 74%;
+    left: 11%;
+    transform: translate(-50%, -50%);
+    border-radius: 6px;
+    justify-content: center;
+    align-items: center;
+    font-family: 'DM Sans', sans-serif;
+    display: flex;
+    font-size: 16px;
+    color: #FBFBFB;
+    background-color: #FF8AAD;
+    padding: 1vw;
+    width: 9.5vw;
+    height: 3.5vw;
+    }
+.button3{
+    font-weight: bold;
+    position: absolute;
+    top: 74%;
+    left: 22%;
+    transform: translate(-50%, -50%);
+    border-radius: 6px;
+    justify-content: center;
+    align-items: center;
+    font-family: 'DM Sans', sans-serif;
+    display: flex;
+    font-size: 16px;
+    color: #FF8AAD;
+    background-color: #FBFBFB;
+    padding: 1vw;
+    width: 9.5vw;
+    height: 3.5vw;
+}
+.colher img{
+    top: 85%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    height: 300px;
+}
+.casquinha2 img{
+    top: 94%;
+    left: 7%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    height: 300px;
+}
