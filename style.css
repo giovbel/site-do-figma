@@ -294,6 +294,9 @@ main img{
     font-family: 'Dancing Script', cursive;
     font-family: 'Varela Round', sans-serif;
 }
+.title{
+    width: 15rem;
+}
 .passion{
     font-weight: 600;
     font-size: 22px;
