@@ -37,20 +37,19 @@ header{
 }
 
 .logo img{
-    top: 40px;
+    top: 4%;
     position: absolute;
     left: 7%;
     transform: translate(-50%, -50%);
-    height: 40px;
+    height: 6vh;
 }
 
 .marca p{
     place-self: center;
     left: 9%;
-    bottom: 30px;
+    bottom: 140%;
     position: relative;
-    bottom: 20x;
-    font-size: 20px;
+    font-size: 2.5vh;
     font-family: 'Changa One', cursive;
     font-family: 'Dancing Script', cursive;
     font-family: 'Varela Round', sans-serif;
@@ -59,30 +58,30 @@ header{
     display: flex;
     place-self: center;
     position: relative;
-    bottom: 10px;
-    left: 100px;
-    gap: 80px;
+    bottom: 36%;
+    left: 5%;
+    gap: 4vw;
 }
 .items p{
-    font-size: 20px;
+    font-size: 2.5vh;
     font-family: 'Changa One', cursive;
     font-family: 'Dancing Script', cursive;
     font-family: 'Varela Round', sans-serif;
 }
 .buynow{
-    top: 12px;
+    top: 1rem;
     display: grid;
     font-family: 'Changa One', cursive;
     font-family: 'Dancing Script', cursive;
     font-family: 'Varela Round', sans-serif;
     text-align: center;
-    width: 130px;
+    width: 6vw;
     left: 80%;
-    font-size: 18px;
+    font-size: 1em;
     font-weight: 600;
     position: absolute;
-    border-radius: 10px;
-    padding: 16px;
+    border-radius: 1em;
+    padding: 1em;
     color: #720D14;
     background-color: #FBFBFB;
 }
@@ -96,19 +95,19 @@ main img{
 }
 
   .morangos img{
-    height: 330px;
+    height: 36%;
     position: absolute;
   }
 
 .potinho img{
-    height: 100px;
-    left: 180px;
+    height: 9em;
+    left: 18rem;
 }
 
 .casquinha-e-morango img{
     position: absolute;
     height: 28vh;
-    right: 1px;
+    right: -1%;
 }
 
 .barca-sorvete img{
@@ -117,18 +116,19 @@ main img{
 }
 
 .barca-desktop img{
+    z-index: -1;
     position: absolute;
     left: 38%;
     display: flex;
-    bottom: 40px;
-    height: 760px;
+    bottom: 4%;
+    height: 50rem;
 }
 
 .title span{
     display: flex;
-    font-size: 80px;
+    font-size: 5em;
     width: 40rem;
-    left: 100px;
+    left: 20%;
     position: relative;
     top: 90px;
     color: white;
@@ -141,25 +141,26 @@ main img{
 }
 .passion{
     font-weight: 600;
-    font-size: 80px;
-    margin-left: 100px;
-    margin-top: 80px;
+    font-size: 5em;
+    margin-left: 5%;
+    margin-top: 5rem;
     color: #720D14;
     font-family: 'Changa One', cursive;
     font-family: 'Dancing Script', cursive;
     font-family: 'Varela Round', sans-serif;
 }
 .info{
-    font-size: 20px;
+    font-size: 1.3em;
     color: #A5696D;
-    width: 25rem;
+    width: 28rem;
     position: relative;
-    top: 15px;
-    left: 100px;
+    top: 10%;
+    left: 5%;
     font-family: 'Changa One', cursive;
     font-family: 'Dancing Script', cursive;
     font-family: 'Varela Round', sans-serif;
 }
+
 footer img{
     justify-content: space-between;
 }
@@ -168,14 +169,14 @@ footer img{
     font-family: 'Dancing Script', cursive;
     font-family: 'Varela Round', sans-serif;
     text-align: center;
-    width: 160px;
-    font-size: 20px;
+    width: 8vw;
+    font-size: 130%;
     font-weight: 300;
-    left: 100px;
+    left: 5%;
     top: 75%;
     position: absolute;
-    border-radius: 12px;
-    padding: 25px;
+    border-radius: 1rem;
+    padding: 1em;
     color: #FBFBFB;
     background-color: #FF8AAD;
 }
@@ -184,14 +185,14 @@ footer img{
     font-family: 'Dancing Script', cursive;
     font-family: 'Varela Round', sans-serif;
     text-align: center;
-    width: 160px;
-    font-size: 20px;
+    width: 8vw;
+    font-size: 130%;
     font-weight: 300;
     top: 75%;
-    left: 280px;
+    left: 14%;
     position: absolute;
-    border-radius: 12px;
-    padding: 25px;
+    border-radius: 1rem;
+    padding: 1em;
     color: #FF8AAD;
     background-color: #FBFBFB;
 }
