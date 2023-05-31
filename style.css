@@ -41,7 +41,7 @@ header{
     position: absolute;
     left: 7%;
     transform: translate(-50%, -50%);
-    height: 50px;
+    height: 40px;
 }
 
 .marca p{
@@ -64,25 +64,25 @@ header{
     gap: 80px;
 }
 .items p{
-    font-size: 20px;
+    font-size: 15px;
     font-family: 'Changa One', cursive;
     font-family: 'Dancing Script', cursive;
     font-family: 'Varela Round', sans-serif;
 }
 .buynow{
-    top: 16px;
+    top: 18px;
     display: grid;
     font-family: 'Changa One', cursive;
     font-family: 'Dancing Script', cursive;
     font-family: 'Varela Round', sans-serif;
     text-align: center;
-    width: 120px;
-    left: 80%;
-    font-size: 17px;
+    width: 95px;
+    left: 85%;
+    font-size: 13px;
     font-weight: 600;
     position: absolute;
     border-radius: 10px;
-    padding: 15px;
+    padding: 12px;
     color: #720D14;
     background-color: #FBFBFB;
 }
@@ -96,18 +96,18 @@ main img{
 }
 
   .morangos img{
-    height: 300px;
+    height: 250px;
     position: absolute;
   }
 
 .potinho img{
-    height: 120px;
-    left: 250px;
+    height: 100px;
+    left: 180px;
 }
 
 .casquinha-e-morango img{
     position: absolute;
-    height: 30vh;
+    height: 28vh;
     right: 1px;
 }
 
@@ -120,15 +120,16 @@ main img{
     position: relative;
     left: 35%;
     display: flex;
-    bottom: 430px;
-    height: 730px;
+    bottom: 350px;
+    height: 570px;
+    width: 52vw;
 }
 
 .title span{
     display: flex;
-    font-size: 70px;
-    width: 40rem;
-    left: 80px;
+    font-size: 50px;
+    width: 30rem;
+    left: 90px;
     position: relative;
     top: 40px;
     color: white;
@@ -138,8 +139,8 @@ main img{
 }
 .passion{
     font-weight: 600;
-    font-size: 70px;
-    margin-left: 80px;
+    font-size: 50px;
+    margin-left: 90px;
     margin-top: 30px;
     color: #720D14;
     font-family: 'Changa One', cursive;
@@ -147,12 +148,12 @@ main img{
     font-family: 'Varela Round', sans-serif;
 }
 .info{
-    font-size: 20px;
+    font-size: 15px;
     color: #A5696D;
-    width: 25rem;
+    width: 20rem;
     position: relative;
     top: 15px;
-    left: 80px;
+    left: 86px;
     font-family: 'Changa One', cursive;
     font-family: 'Dancing Script', cursive;
     font-family: 'Varela Round', sans-serif;
@@ -165,14 +166,14 @@ footer img{
     font-family: 'Dancing Script', cursive;
     font-family: 'Varela Round', sans-serif;
     text-align: center;
-    width: 150px;
-    font-size: 20px;
+    width: 120px;
+    font-size: 16px;
     font-weight: 300;
-    left: 80px;
-    top: 70%;
+    left: 82px;
+    top: 75%;
     position: absolute;
     border-radius: 12px;
-    padding: 18px;
+    padding: 16px;
     color: #FBFBFB;
     background-color: #FF8AAD;
 }
@@ -181,14 +182,14 @@ footer img{
     font-family: 'Dancing Script', cursive;
     font-family: 'Varela Round', sans-serif;
     text-align: center;
-    width: 150px;
-    font-size: 20px;
-    font-weight: 400;
-    top: 70%;
-    left: 250px;
+    width: 120px;
+    font-size: 16px;
+    font-weight: 300;
+    top: 75%;
+    left: 220px;
     position: absolute;
     border-radius: 12px;
-    padding: 18px;
+    padding: 16px;
     color: #FF8AAD;
     background-color: #FBFBFB;
 }
@@ -366,7 +367,7 @@ footer img{
     }
     .menu img{
         display: flex;
-        height: 50px;
+        height: 40px;
         position: relative;
         top: -20px;
     }
@@ -376,23 +377,23 @@ footer img{
     }
     .compras img{
         display: flex;
-        height: 37px;
+        height: 50px;
         position: relative;
         top: -17px;
     }
     .logo img{
         position: absolute;  
-        top: 6%;
-        left: 36%;
+        top: 4%;
+        left: 42%;
         transform: translate(-50%, -50%);
-        height: 40px;
+        height: 50px;
     }
     .marca p{
         place-self: center;
         text-align: center;
         position: relative;
-        top: -47px;
-        left: 5px;
+        bottom: 60px;
+        left: 4px;
         font-size: 18px;
         font-family: 'Changa One', cursive;
         font-family: 'Dancing Script', cursive;
@@ -411,23 +412,23 @@ footer img{
         display: flex;
     }
       .morangos img{
-        height: 120px;
+        height: 230px;
         position: absolute;
       }
     .potinho img{
-        height: 50px;
-        left: 70px;
+        height: 90px;
+        left: 160px;
     }
     .casquinha-e-morango img{
         position: absolute;
-        height: 80px;
+        height: 160px;
         right: 1px;
     }
     .barca-sorvete img{
         display: grid;
         top: 30px;
-        left: 35px;
-        height: 250px;
+        left: 110px;
+        height: 450px;
     }
     
     .barca-desktop{
@@ -436,9 +437,9 @@ footer img{
     
     .title span{
         display: flex;
-        font-size: 22px;
-        width: 15rem;
-        left: 10px;
+        font-size: 35px;
+        width: 25rem;
+        left: 20px;
         position: relative;
         top: 40px;
         color: white;
@@ -448,21 +449,21 @@ footer img{
     }
     .passion{
         font-weight: 600;
-        font-size: 22px;
-        margin-left: 65px;
-        margin-top: 13px;
+        font-size: 35px;
+        margin-left: 110px;
+        margin-top: -5px;
         color: #720D14;
         font-family: 'Changa One', cursive;
         font-family: 'Dancing Script', cursive;
         font-family: 'Varela Round', sans-serif;
     }
     .info{
-        font-size: 12px;
+        font-size: 16px;
         color: #A5696D;
-        width: 15rem;
+        width: 20rem;
         position: relative;
         top: 15px;
-        left: 10px;
+        left: 20px;
         font-family: 'Changa One', cursive;
         font-family: 'Dancing Script', cursive;
         font-family: 'Varela Round', sans-serif;
@@ -475,14 +476,14 @@ footer img{
         font-family: 'Dancing Script', cursive;
         font-family: 'Varela Round', sans-serif;
         text-align: center;
-        width: 100px;
-        font-size: 12px;
+        width: 130px;
+        font-size: 18px;
         font-weight: 300;
-        left: 10px;
-        top: 556px;
+        left: 20px;
+        top: 83vh;
         position: absolute;
         border-radius: 12px;
-        padding: 10px;
+        padding: 16px;
         color: #FBFBFB;
         background-color: #FF8AAD;
     }
@@ -491,14 +492,14 @@ footer img{
         font-family: 'Dancing Script', cursive;
         font-family: 'Varela Round', sans-serif;
         text-align: center;
-        width: 100px;
-        font-size: 12px;
+        width: 130px;
+        font-size: 18px;
         font-weight: 400;
-        top: 556px;
-        left: 120px;
+        top: 83vh;
+        left: 170px;
         position: absolute;
         border-radius: 12px;
-        padding: 10px;
+        padding: 16px;
         color: #FF8AAD;
         background-color: #FBFBFB;
     }
